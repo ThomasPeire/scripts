@@ -12,6 +12,7 @@ WHERE
 GROUP BY 
       sOBJ.schema_id
       , sOBJ.name
---HAVING SUM(sPTN.Rows) > 0
+HAVING SUM(sPTN.Rows) > 0
 ORDER BY [TableName]
 GO
+
