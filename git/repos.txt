@@ -1,0 +1,2 @@
+https://dev.azure.com/{project}/{team}/_git/{repo1}
+https://dev.azure.com/{project}/{team}/_git/{repo2}
